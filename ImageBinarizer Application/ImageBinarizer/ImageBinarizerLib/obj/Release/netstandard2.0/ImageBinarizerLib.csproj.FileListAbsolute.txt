@@ -1,0 +1,8 @@
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\bin\Release\netstandard2.0\ImageBinarizerLib.deps.json
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\bin\Release\netstandard2.0\ImageBinarizerLib.dll
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\bin\Release\netstandard2.0\ImageBinarizerLib.pdb
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\obj\Release\netstandard2.0\ImageBinarizerLib.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\obj\Release\netstandard2.0\ImageBinarizerLib.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\obj\Release\netstandard2.0\ImageBinarizerLib.AssemblyInfo.cs
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\obj\Release\netstandard2.0\ImageBinarizerLib.dll
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerLib\obj\Release\netstandard2.0\ImageBinarizerLib.pdb

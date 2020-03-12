@@ -1,0 +1,13 @@
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerApp.deps.json
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerApp.runtimeconfig.json
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerApp.runtimeconfig.dev.json
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerApp.dll
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerApp.pdb
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerLib.dll
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\bin\Release\netcoreapp2.1\ImageBinarizerLib.pdb
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\obj\Release\netcoreapp2.1\ImageBinarizerApp.csprojAssemblyReference.cache
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\obj\Release\netcoreapp2.1\ImageBinarizerApp.AssemblyInfoInputs.cache
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\obj\Release\netcoreapp2.1\ImageBinarizerApp.AssemblyInfo.cs
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\obj\Release\netcoreapp2.1\ImageBinarizerApp.csproj.CopyComplete
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\obj\Release\netcoreapp2.1\ImageBinarizerApp.dll
+C:\Users\bryan\Documents\GitHub\LearningApi\SEIV-X\ImageBinarizer\ImageBinarizerApp\obj\Release\netcoreapp2.1\ImageBinarizerApp.pdb

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageBinarizerLib</name>
+    </assembly>
+    <members>
+        <member name="T:ImageBinarizerLib.ImageBinarizer">
+            <summary>
+            Main class for the Image Binarizer algorithm using Ipipeline
+            </summary>
+        </member>
+        <member name="M:ImageBinarizerLib.ImageBinarizer.#ctor">
+            <summary>
+            By default constructor without parameter
+            </summary>
+        </member>
+        <member name="M:ImageBinarizerLib.ImageBinarizer.#ctor(System.Collections.Generic.Dictionary{System.String,System.Int32})">
+            <summary>
+            constructor with parameter.
+            </summary>
+            <param name="imageParams">Parameters given</param>
+        </member>
+        <member name="M:ImageBinarizerLib.ImageBinarizer.Run(System.Double[0:,0:,0:],LearningFoundation.IContext)">
+            <summary>
+            Method of Interface Ipipline
+            </summary>
+            <param name="data">this is the double data coming from unitest.</param>
+            <param name="ctx">this define the Interface IContext for Data descriptor</param>
+            <returns></returns>
+        </member>
+        <member name="M:ImageBinarizerLib.ImageBinarizer.GetBinary(System.Double[0:,0:,0:])">
+            <summary>
+            Gets double array representation of the image.I.E.: 010000111000
+            </summary>
+            <params name="img">Image instance. Typically bitmap.</params>
+            <returns></returns>
+        </member>
+        <member name="T:ImageBinarizerLib.ImageBinarizerExtension">
+            <summary>
+            Extention Method class as per Learning Api Architecture
+            </summary>
+        </member>
+        <member name="M:ImageBinarizerLib.ImageBinarizerExtension.UseImageBinarizer(LearningFoundation.LearningApi,System.Collections.Generic.Dictionary{System.String,System.Int32})">
+            <summary>
+            Creating Object of Image Binarization in this method and adding it to Api
+            </summary>
+            <param name="api">this is a Api used to add module to Learning Api.It is used as a reference of Learning Api</param>
+            <param name="imageParams"></param>
+            <returns>It return Api of Learning Api </returns>
+        </member>
+    </members>
+</doc>
